@@ -7,9 +7,9 @@
 fbind(a, b)
 }
 \arguments{
-\item{a}{}
+\item{a}{factor}
 
-\item{b}{}
+\item{b}{factor}
 }
 \value{
 factor
